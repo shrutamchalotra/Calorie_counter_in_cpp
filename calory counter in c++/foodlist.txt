@@ -1,0 +1,8 @@
+Food List:
+chips        [Cal:500(Kcal)] [ P:6(gms) C:53(gms) F:34(gms) ] [weight:100(gms)]. 
+chocolate    [Cal:500(Kcal)] [ P:7(gms) C:58(gms) F:29(gms) ] [weight:100(gms)]. 
+milk         [Cal:75(Kcal)] [ P:3(gms) C:8(gms) F:4(gms) ] [weight:100(gms)]. 
+ice-cream    [Cal:120(Kcal)] [ P:4(gms) C:10(gms) F:5(gms) ] [weight:100(gms)]. 
+tomato sauce [Cal:20(Kcal)] [ P:0(gms) C:5(gms) F:0(gms) ] [weight:15(gms)]. 
+maggi        [Cal:427(Kcal)] [ P:8(gms) C:63(gms) F:16(gms) ] [weight:100(gms)]. 
+coke zero    [Cal:0(Kcal)] [ P:0(gms) C:0(gms) F:0(gms) ] [weight:100(gms)]. 
