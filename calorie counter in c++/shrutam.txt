@@ -1,0 +1,10 @@
+shrutam
+12345678
+User Details :
+                         First Name : shrutam
+                         Last  Name : chalotra
+                             Gender : m
+                                Age : 18
+                        Weight(kgs) : 83
+                        Height(cms) : 185
+         Maintenance Calories(kcal) : 2766
